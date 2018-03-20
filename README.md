@@ -1,6 +1,5 @@
-# startit_movie_finder
-Working project for startit students
-
+# movie_finder_jasmine
+Demo project for learning and experiments
 
 To make sure everything works in this initial repo:
 - clone
